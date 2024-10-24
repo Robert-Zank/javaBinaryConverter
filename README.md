@@ -6,9 +6,6 @@ This project is a simple Java program that converts text to binary and binary to
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact Information](#contact-information)
 
 ## Description
 
